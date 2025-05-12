@@ -77,6 +77,7 @@ Follow the instructions below to run the app locally:
 ```bash
 git clone https://github.com/garimaakashyap/Drawing-App.git
 cd Drawing-App
+```
 
 ## Contact
 

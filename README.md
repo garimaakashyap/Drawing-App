@@ -54,7 +54,7 @@ Pure HTML, CSS, and JavaScript — no frameworks needed!
 🔗 **Live Demo**: [Click here to try the app now!](https://garimaakashyap.github.io/Drawing-App/)
 
 <p align="center">
-  <img src="screenshot.png" alt="Drawing App in Action" width="600">
+  <img src="app.png" alt="Drawing App in Action" width="600">
 </p>
 
 ---

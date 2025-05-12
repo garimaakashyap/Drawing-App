@@ -1,7 +1,7 @@
 <h1 align="center">🎨 Drawing App</h1>
 
 <p align="center">
-  <img src="screenshot.png" alt="Drawing App Screenshot" width="600">
+  <img src="app.png" alt="Drawing App Screenshot" width="600">
 </p>
 
 <p align="center">

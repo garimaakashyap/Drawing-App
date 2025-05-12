@@ -78,3 +78,10 @@ Follow the instructions below to run the app locally:
 git clone https://github.com/garimaakashyap/Drawing-App.git
 cd Drawing-App
 
+## Contact
+
+- **GeeksforGeeks Profile**: [Your gfg](https://www.geeksforgeeks.org/user/garimamillicent/)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/garima-kashyap-75b1202b8/)
+- **GitHub**: [Your GitHub](https://github.com/garimaakashyap)
+
+
